@@ -8,9 +8,9 @@ import java.sql.Statement;
 /*将数据插入数据库*/
 public class InsertDB {
 
-	private static final String user = "root";
-	private static final String pwd = "abc123";
-	private static final String url = "jdbc:mysql://10.4.208.78:31089/embedded_cloud_platform?characterEncoding=utf8";
+	private static final String user = "XXX";
+	private static final String pwd = "XXXXXX";
+	private static final String url = "jdbc:mysql://XXX.XXX.XXX.XXX:XXX/embedded_cloud_platform?characterEncoding=utf8";
 	private static final String driver = "com.mysql.jdbc.Driver";
 
 	// 连接数据库
