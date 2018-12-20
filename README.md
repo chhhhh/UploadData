@@ -1,4 +1,4 @@
-# uploadData
+# UploadData
 
 ## 一些废话：
 这是我第一次将代码上传到GitHub上，希望以后能养成将自己的代码和思路都保存下来的习惯。<br>
